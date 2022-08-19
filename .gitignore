@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# node.js
+node_modules/
+
+# Mac
+*~
+.*~
+*.elc
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+auto-save-list
+tramp
+.\#*
+.DS_Store
+*.swp.
