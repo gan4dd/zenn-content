@@ -1,5 +1,5 @@
 ---
-title: "ローカルでのrebase後にコンフリクト解消してもpull, push出来ない"
+title: "git push の安全な実行：--force-with-lease と --force-if-includes の最適な組み合わせ"
 emoji: "📓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [git,tips]
